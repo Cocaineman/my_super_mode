@@ -1,6 +1,6 @@
 [
 {
-  "modid": "mysupermod",
+  "modid": "mymod",
   "name": "my super mod",
   "description": "my super mod",
   "version": "${version}",
