@@ -12,7 +12,7 @@ public class ExampleMod
 {
     public static final String MODID = "mysupermod";
     public static final String NAME = "My Super Mod";
-    public static final String VERSION = "1.228";
+    public static final String VERSION = "1.228432423";
 
     private static Logger logger;
 
